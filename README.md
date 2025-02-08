@@ -1,6 +1,6 @@
-# Newton-vs-the-machine-solving-the-chaotic-three-body-problem-using-deep-neural-networks
+# Newton vs the machine
 
-This repository is going to work through the paper *paper.pdf*. 
+This repository is going to work through the paper *Newton vs Machine.pdf*. 
 
 ## Network Architecture
 
