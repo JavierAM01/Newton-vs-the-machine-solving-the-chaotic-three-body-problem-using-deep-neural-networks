@@ -2,6 +2,8 @@
 
 This repository is going to work through the paper *Newton vs Machine.pdf*. 
 
+![Small animation](fig/animation_1.gif)
+
 ## Network Architecture
 
 The network architecture can be found on the 3rd page of the paper:
